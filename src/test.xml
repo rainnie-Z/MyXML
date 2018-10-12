@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<id>12</id>
+	<name>wanghao</name>
+	<sex>man</sex>
+	<connection>
+		<connect descrip="father">zhangyisan</connect>
+		<connect descrip="mother">wangyiyan</connect>
+	</connection>
+</root>
